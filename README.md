@@ -1,5 +1,7 @@
 # final-research
 
+深度聚类游戏分类推荐
+
 In this study, we acquired 4000 game fragments, attempt to build one
 Recommendation System to improve the accuracy of game recommendation.
 The experiment tried to explore a potential method to measure the distance
